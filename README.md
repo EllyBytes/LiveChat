@@ -1,4 +1,4 @@
-
+[video link here:::](https://drive.google.com/file/d/1zKS1LYT6EbsnCQ76zC92W2Re-UlqCUZa/view?usp=sharing)
 # LiveChat
 
 A real-time chat application built with Spring Boot, WebSocket, Redis, MySQL, and a JavaScript frontend. This application allows users to join chat rooms, send text messages, upload media files (images/videos), and receive real-time updates. Messages are stored in a hybrid system using Redis for caching and MySQL for persistence, with WhatsApp-style message ordering (oldest at the top, newest at the bottom).
